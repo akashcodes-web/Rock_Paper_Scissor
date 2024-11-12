@@ -1,6 +1,6 @@
 # Rock_Paper_Scissor
 
-it is a game made ny using
+it is a game made by me using
 
  ->HTML
  ->CSS
