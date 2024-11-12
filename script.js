@@ -22,7 +22,7 @@ const showWinner = (userWin, userChoice,compChoice)=>{
         userscr++;
         userscore.innerText=userscr;
         console.log("you win");
-        msg.innerText = `You Win! your ${userChoice} Beats  ${compChoice} 😃 `;
+        msg.innerText = `You Win! your ${userChoice} Beats  ${compChoice}  😃 `;
         msg.style.backgroundColor="Green";
     }
     else{
